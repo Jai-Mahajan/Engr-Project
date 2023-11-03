@@ -8,3 +8,6 @@ distracted driving. Due to the severity of this problem, it must be addressed an
 Therefore, we created a product that ensures that people do not take their hands off of the steering wheel, or else an alarm 
 will sound to remind the driver to put their hands back on the wheel. This project contained many steps such as brainstorming,
 research, prototyping, experimenting, and testing.
+
+The files you see in this repository include code that describes how the Arduino microcontroller was coded, how the UserInterface 
+of the app was created as well as how the Bluetooth Module was integrated into the app.
