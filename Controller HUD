@@ -1,0 +1,22 @@
+Import VIKIT
+class ViewControllers UIViewController (
+  var username: UITextField
+  let defaults- UserDefaults.standard
+  var password: UITextField!
+  var usernames
+override func viewDidLoad() (
+  super.viewDidLoad() // Do any additional setup after loading the view.)
+override func prepare for segue: UIStoryboardSegue, sender: Any?) (
+  if segue.destination is Ladning Page
+    let vc = segue.destination as? LadningPage
+    vc?,header =  username.text!
+func, unwindToRed(unwindSegue: UIStoryboardSegue) (
+  func 1ButtonPressed( sender: UIButton!) (
+    if password.text == defaults.dictionaryf forkeys username.text!)?["Password"] as? String & username.text defaults.dictionary(forkeys username.text!)
+      username = username, text!
+perforeSeguet withidentifier: "Landing", sender: nil))
+    else {
+    let alert= UIAlertControllerftitle: "Oh No!", message: "Incorrect Username or Password", preferredStyles alert)
+    alert.addAction [UIAlertAction(title: "Try Again", styles .cancel, handlers nil))
+    self.presentfalert, animated: true}
+
