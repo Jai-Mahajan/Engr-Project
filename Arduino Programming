@@ -1,0 +1,13 @@
+const int touchPin = 2; // the digital pin connected to the touch sensor
+const int alarmpin - 3; // the digital pin connected to the alarm
+
+
+void setup() {
+  pinMode(touchPin, INPUT); // set the touch sensor pin as an input
+  pinMode(alarmPin, OUTPUT); // set the alarm pin as an output}
+void loop() {
+  int touchValue - digitalRead(touchPin); // read the value from the touch sensor
+  if (touchValue -- HIGH) { // if the touch sensor is triggered
+    digitalWrite(alarmPin, HIGH); // turn on the alarm
+    delay(1000); // wait for one second
+    digitalWrite(alarmPin, LOW); // turn off the alarm}}
