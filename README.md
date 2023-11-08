@@ -1,4 +1,4 @@
-# Engr-Project
+# Reduced Distracted Driving Project
 Utilizing a cell phone or driving while intoxicated when driving is a dangerous habit that causes drivers all over the world
 to lose concentration on the road directly in front of them. Since the 2000s, distracted driving has killed innocent people
 and contributed to around 25% of collisions annually, which is a considerably big portion of yearly crashes. Although most
