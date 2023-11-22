@@ -16,10 +16,9 @@ of the app was created as well as how the Bluetooth Module was integrated into t
 
 ![image](https://github.com/Jai-Mahajan/Reducing_Distracted_Driving/assets/144373309/978c62a4-94cc-4321-9b70-637be8db6105)
 
-![image](https://github.com/Jai-Mahajan/Reducing_Distracted_Driving/assets/144373309/5f0f314c-34e4-4302-b844-ef1d16184ff7)
+![image](https://github.com/Jai-Mahajan/Reducing_Distracted_Driving/assets/144373309/e6ffeee1-a867-4231-85c3-60d2141bde19)
 
-![image](https://github.com/Jai-Mahajan/Reducing_Distracted_Driving/assets/144373309/d1dbc27d-65cd-4bb6-ade7-e1e2ea93b632)
-
+![image](https://github.com/Jai-Mahajan/Reducing_Distracted_Driving/assets/144373309/d4c5eed3-ff8a-4a3f-a5fe-779980aa45e7)
 
 
 
