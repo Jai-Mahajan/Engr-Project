@@ -11,3 +11,4 @@ research, prototyping, experimenting, and testing.
 
 The files you see in this repository include code that describes how the Arduino microcontroller was coded, how the UserInterface 
 of the app was created as well as how the Bluetooth Module was integrated into the app.
+![image](https://github.com/Jai-Mahajan/Reducing_Distracted_Driving/assets/144373309/978c62a4-94cc-4321-9b70-637be8db6105)
