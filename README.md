@@ -13,11 +13,13 @@ The files you see in this repository include code that describes how the Arduino
 of the app was created as well as how the Bluetooth Module was integrated into the app.
 
 
+![image](https://github.com/Jai-Mahajan/Reducing_Distracted_Driving/assets/144373309/d4c5eed3-ff8a-4a3f-a5fe-779980aa45e7)
+
 ![image](https://github.com/Jai-Mahajan/Reducing_Distracted_Driving/assets/144373309/3b47ff16-0420-4560-8421-49eef6fda7fc)
 
 ![image](https://github.com/Jai-Mahajan/Reducing_Distracted_Driving/assets/144373309/e6ffeee1-a867-4231-85c3-60d2141bde19)
 
-![image](https://github.com/Jai-Mahajan/Reducing_Distracted_Driving/assets/144373309/d4c5eed3-ff8a-4a3f-a5fe-779980aa45e7)
+
 
 
 
